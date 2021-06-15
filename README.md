@@ -59,6 +59,4 @@ OOP paradigm with Java.
 - 💬 Ask me about Programming.
 
 ## Music:
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=nbkjiim5lnd0uw3t59z4cavlz)
-#### Profile 
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16)](https://open.spotify.com/user/jeffreyca16)
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=nbkjiim5lnd0uw3t59z4cavlz)](https://open.spotify.com/user/nbkjiim5lnd0uw3t59z4cavlz)
