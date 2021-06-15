@@ -11,7 +11,9 @@ OOP paradigm with Java.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bwendel26&show_icons=true&theme=radical)
 
-## Skills :nerd_face:
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Bwendel26&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+## Skills :computer:
 <p align="center">
     <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -55,3 +57,8 @@ OOP paradigm with Java.
 - 🔭 I’m currently enroled in a internship - **Alest Consultoria**
 - 🌱 I’m currently learning FullStack development.
 - 💬 Ask me about Programming.
+
+## Music:
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=nbkjiim5lnd0uw3t59z4cavlz)
+#### Profile 
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16)](https://open.spotify.com/user/jeffreyca16)
