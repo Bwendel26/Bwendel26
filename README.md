@@ -7,8 +7,12 @@ looking to improve my tech skills as a developer, focusing on taking courses to 
 university. Currently focused to go above with my programming skills, advancing in the
 OOP paradigm with Java.
 
-Would you like to find me?
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipefialho)](https://www.linkedin.com/in/bruno-fernandes-457067178/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bwendel26&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bwendel26&show_icons=true&theme=radical)
+
+
+**Would you like to find me?**
 
 <p align="center">
     <a href="mailto:bwendel26999@gmail.com">
