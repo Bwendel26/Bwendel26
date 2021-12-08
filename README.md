@@ -54,7 +54,7 @@ OOP paradigm with Java.
 
 <!--**Bwendel26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-- 🔭 I’m currently enroled in a internship - **Alest Consultoria**
+- 🔭 I’m currently enroled in a Backend Jr Java Software development role - **NTT DATA**
 - 🌱 I’m currently learning FullStack development.
 - 💬 Ask me about Programming.
 
