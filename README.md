@@ -1,11 +1,12 @@
 ### Hi there 👋
 
 
-I am a computer science student and programmer living in Brasília, Brazil. My knowledge comprehend
-programming logic (Python, Java, JavaScript, C# and PHP), web development. Currently
-looking to improve my tech skills as a developer, focusing on taking courses to beyond the
-university. Currently focused to go above with my programming skills, advancing in the
-OOP paradigm with Java.
+Desenvolvedor Java Backend com experiência em sistemas de grande porte e grande volumetria.
+Minha trajetória inclui desenvolvimento e manutenção de sistemas bancários de missão crítica, atendendo milhões de usuários em ambientes de alta disponibilidade. Tenho experiência sólida com Java (6, 8, 11, 17 e 21), Spring Boot, Spring MVC, Spring Batch e Spring Security, além de bancos de dados Oracle, PostgreSQL em cenários de alta concorrência, ambientes Cloud provisionando infraestrutura de aplicação, com todos os princípios do AWS WAF e CAF.
+
+Atuo desenvolvendo soluções web API RESTful, com foco em boas práticas e segurança, autenticação e autorização, tokens de acesso JWT, implementação de blacklist, cobertura de testes e integrações.
+Possuo conhecimentos em design systems para arquitetura de sistemas distribuídos, incluindo escalabilidade horizontal, load balancing, replicação de bancos de dados, mensageria assíncrona, caching com Redis e estratégias de resiliência. Trabalho com containerização (Docker/Docker Compose) e tenho familiaridade com Kubernetes, Terraform e Ansible para provisionamento de infraestrutura.
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bwendel26&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
